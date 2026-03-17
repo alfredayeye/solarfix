@@ -1,0 +1,15 @@
+[project]
+name = "solarfix"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ephem>=4.2.1",
+    "numpy>=2.4.3",
+    "opencv-python>=4.13.0.92",
+    "pillow>=12.1.1",
+    "plotly>=6.6.0",
+    "scipy>=1.17.1",
+    "streamlit>=1.55.0",
+]
