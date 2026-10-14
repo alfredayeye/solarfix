@@ -1,0 +1,17 @@
+# Cape Town Wind Factory — all crawlers welcome, including AI/LLM crawlers.
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://capetownwindfactory.com/sitemap.xml
